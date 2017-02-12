@@ -1,9 +1,9 @@
 {
   "uuid": "67ff6935-2ae4-421d-9198-af7898e2d8a7",
-  "shortName": "Tokipona",
-  "longName": "Tokipona",
-  "companyName": "pancake",
-  "versionLabel": "1.1",
+  "shortName": "Loomisian",
+  "longName": "Loomisian",
+  "companyName": "Clark Industries",
+  "versionLabel": "1.0",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt"],
   "watchapp": {
@@ -17,7 +17,7 @@
       "menuIcon": true,
       "type": "png",
       "name": "IMAGE_MENUICON",
-      "file": "images/menuicon.png"
+      "file": "images/loomis.png"
     }]
   }
 }
